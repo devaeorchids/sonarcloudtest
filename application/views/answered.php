@@ -53,6 +53,7 @@
     <div class="row">
             <div class="col-md-12">
                 <table class="table table-bordered table-hover table-striped" style="border:3px solid black";>
+                  <caption>Schedule for the week of March 6</caption>
                     <thead>
                         <th class="text-center">Problem</th>
                         <th class="text-center">Product</th>
